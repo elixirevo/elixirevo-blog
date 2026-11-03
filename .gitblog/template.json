@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "repository": "gitblogapp/svelte-gitblog-template",
-  "version": "1.0.4",
-  "revision": "ca0d73344a98614269218fcfa4a2d474355514c6"
+  "version": "1.0.10",
+  "revision": "fc3949a8bbab8ddc7aabeffcaab60955a2bca8c6"
 }
